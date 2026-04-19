@@ -211,3 +211,7 @@ __marimo__/
 Thumbs.db
 *.swp
 *.swo
+
+# Meal photos dropped here for local runs (keep folder via .gitkeep)
+input/*
+!input/.gitkeep
